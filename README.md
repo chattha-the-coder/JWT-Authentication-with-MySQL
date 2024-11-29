@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Node.js JWT Authentication with MySQL
 This project demonstrates a basic implementation of user authentication using Node.js, Express, MySQL, and JWT (JSON Web Tokens). It includes functionalities for user registration, login, token-based authentication, and retrieving user-specific data from the database.
 
@@ -128,3 +129,7 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 License
 This project is licensed under the MIT License.
+=======
+# JWT-Authentication-with-MySQL
+This project demonstrates a secure user authentication system using Node.js, Express, MySQL, and JWT (JSON Web Tokens). It includes functionalities for user registration with hashed passwords, secure login, and token-based authorization to access protected routes. The database ensures user data is stored safely.
+>>>>>>> e011679ce81b618ac93d45e28b8659e4bf4e2017
